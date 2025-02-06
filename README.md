@@ -1,4 +1,4 @@
-# curso_analise_dados_python_programaria
+# curso analise dados com python - programaria
 Este repositório contém materiais e projetos do curso Introdução à Análise de Dados, abordando desde conceitos fundamentais até técnicas avançadas de manipulação e visualização de dados.
 
 Conteúdo do Curso
